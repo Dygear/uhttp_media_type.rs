@@ -1,0 +1,13 @@
+[package]
+name = "uhttp_media_type"
+version = "0.5.0"
+authors = ["Mick Koch <mick@kochm.co>"]
+description = "Zero-allocation HTTP MIME/media type parser"
+license = "MIT"
+documentation = "https://docs.rs/uhttp_media_type"
+repository = "https://github.com/kchmck/uhttp_media_type.rs"
+keywords = ["http", "media", "mime", "type", "mimetype"]
+
+[dependencies]
+
+memchr = "1.0"
