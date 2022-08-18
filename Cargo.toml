@@ -1,11 +1,11 @@
 [package]
 name = "uhttp_media_type"
-version = "0.5.0"
-authors = ["Mick Koch <mick@kochm.co>"]
+version = "0.5.1"
+authors = ["Mick Koch <mick@kochm.co>", "Mark Tomlin <Dygear@gmail.com>"]
 description = "Zero-allocation HTTP MIME/media type parser"
 license = "MIT"
 documentation = "https://docs.rs/uhttp_media_type"
-repository = "https://github.com/kchmck/uhttp_media_type.rs"
+repository = "https://github.com/Dygear/uhttp_media_type.rs"
 keywords = ["http", "media", "mime", "type", "mimetype"]
 
 [dependencies]

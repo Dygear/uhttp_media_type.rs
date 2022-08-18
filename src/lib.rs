@@ -27,8 +27,6 @@
 //! assert!(params.next().is_none());
 //! ```
 
-#![feature(field_init_shorthand)]
-
 extern crate memchr;
 
 use memchr::memchr;
